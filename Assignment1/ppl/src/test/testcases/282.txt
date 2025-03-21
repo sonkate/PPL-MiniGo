@@ -1,0 +1,11 @@
+func main() {
+            var arr []int = getArray()
+            var target int = 5
+            var found bool = false
+            for i := 0; i < len(arr); i += 1 {
+                if arr[i] == target {
+                    found = true
+                    break
+                }
+            }
+        }

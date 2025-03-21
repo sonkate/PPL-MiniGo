@@ -1,0 +1,1 @@
+Program([StructType(Calculator,[(value,IntType)],[]),MethodDecl(c,Id(Calculator),FuncDecl(Add,[ParDecl(x,IntType)],IntType,Block([Return(BinaryOp(FieldAccess(Id(c),value),+,Id(x)))])))])

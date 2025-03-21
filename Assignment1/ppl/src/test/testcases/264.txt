@@ -1,0 +1,8 @@
+func main() {
+            var arr []int = getArray()
+            var exponent int = 3
+            for i := 0; i < len(arr); i += 1 {
+                arr[i] := foo(math.Pow(float64(arr[i]), float64(exponent)))
+            }
+        }
+        

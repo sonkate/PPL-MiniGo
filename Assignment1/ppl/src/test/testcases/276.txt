@@ -1,0 +1,11 @@
+func main() {
+            var arr []int = getArray()
+            var unique []int
+            for i := 0; i < len(arr); i += 1 {
+                if (!seen[arr[i]]) {
+                    unique := append(unique, arr[i])
+                    seen[arr[i]] := true
+                }
+            }
+        }
+        

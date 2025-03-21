@@ -1,0 +1,4 @@
+func main() {
+            var r Rectangle
+            var area float = r.area() + r.perimeter()
+        };

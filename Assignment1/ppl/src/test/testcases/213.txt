@@ -1,0 +1,4 @@
+func (r Rectangle) area() float {
+            return r.length * r.width
+        }
+        

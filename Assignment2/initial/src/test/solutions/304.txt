@@ -1,0 +1,1 @@
+Program([MethodDecl(r,Id(Receiver),FuncDecl(methodName,[ParDecl(a,IntType),ParDecl(b,FloatType),ParDecl(c,FloatType)],FloatType,Block([])))])

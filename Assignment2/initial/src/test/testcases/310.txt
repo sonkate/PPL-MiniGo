@@ -1,0 +1,1 @@
+func main() { const y = 10; }

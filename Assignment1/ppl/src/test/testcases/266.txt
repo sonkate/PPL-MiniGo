@@ -1,0 +1,7 @@
+func main() {
+            var arr []int = getArray()
+            for i := 0; i < len(arr); i += 1 {
+                arr[i] := arr[i] * arr[i] * arr[i]
+            }
+        }
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(main,[],VoidType,Block([If(BinaryOp(MethodCall(Id(person),getAge,[]),>,IntLiteral(30)),Block([Assign(Id(z),IntLiteral(1))]))]))])

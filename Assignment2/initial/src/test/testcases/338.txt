@@ -1,0 +1,1 @@
+func main() { if (arr[0] > 10) { z := 1; } }

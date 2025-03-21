@@ -1,0 +1,4 @@
+func main() {
+            var arr []int = getArray()
+            var first int = arr[0]
+        };

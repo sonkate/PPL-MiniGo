@@ -1,0 +1,1 @@
+Program([FuncDecl(main,[],VoidType,Block([If(UnaryOp(!,BinaryOp(BinaryOp(Id(x),>,IntLiteral(0)),&&,UnaryOp(!,BinaryOp(BinaryOp(Id(y),<,IntLiteral(10)),||,BinaryOp(Id(z),==,IntLiteral(5)))))),Block([Assign(Id(a),IntLiteral(1))]))]))])

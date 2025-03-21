@@ -1,0 +1,1 @@
+func main() { if (person.getAge() > 30) { z := 1; } }

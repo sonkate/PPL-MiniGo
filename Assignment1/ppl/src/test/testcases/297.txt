@@ -1,0 +1,13 @@
+func main() {
+            var arr []int = getArray()
+            for i := 0; i < len(arr); i += 1 {
+            for j := i + 1; j < len(arr); j += 1 {
+                if (arr[i] > arr[j]) {
+                var temp int = arr[i]
+                arr[i] := arr[j]
+                arr[j] := temp
+                }
+            }
+            }
+        }
+        

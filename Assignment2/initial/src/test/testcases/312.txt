@@ -1,0 +1,1 @@
+func main() { func (p Person) getName() string { return p.name; } }

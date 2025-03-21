@@ -1,0 +1,6 @@
+func main() {
+            var arr1 []int = getArray()
+            var arr2 []int = getArray()
+            var result []int = append(arr1, arr2)
+        }
+        

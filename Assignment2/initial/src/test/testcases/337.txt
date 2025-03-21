@@ -1,0 +1,1 @@
+func main() { if (foo() > 10) { z := 1; } }

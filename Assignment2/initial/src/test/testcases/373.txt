@@ -1,0 +1,1 @@
+func main() { arr := [2]Person{{"Alice", 30}, {"Bob", 25}}; }

@@ -1,0 +1,3 @@
+
+            func  (Cat c) foo(a [2]ID) {return;}
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(main,[],VoidType,Block([MethodDecl(p,Id(Person),FuncDecl(getName,[],StringType,Block([Return(FieldAccess(Id(p),name))])))]))])

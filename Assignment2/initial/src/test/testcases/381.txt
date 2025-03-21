@@ -1,0 +1,5 @@
+
+            func foo(){
+                const a = 1.;
+            } 
+        

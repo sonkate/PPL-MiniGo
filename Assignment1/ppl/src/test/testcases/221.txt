@@ -1,0 +1,4 @@
+func main() {
+            var result int = add(add(1, 2), 3)
+        }
+        

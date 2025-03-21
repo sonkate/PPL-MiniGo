@@ -1,0 +1,1 @@
+Program([FuncDecl(main,[],VoidType,Block([If(BinaryOp(FieldAccess(Id(person),age),>,IntLiteral(30)),Block([Assign(Id(z),IntLiteral(1))]))]))])

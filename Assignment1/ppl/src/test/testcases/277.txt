@@ -1,0 +1,18 @@
+func main() {
+            var arr []int = getArray()
+            var frequency []int
+            for i := 0; i < len(arr); i += 1 {
+                if (frequency[arr[i]] == 0) {
+                    frequency[arr[i]] := 1
+                } else {
+                    frequency[arr[i]] += 1
+                }
+            }
+            var mode int = arr[0]
+            var maxCount int = frequency[arr[0]]
+            for key, value := range frequency {
+                if (value > maxCount) {
+                }
+            }
+        }
+        

@@ -1,0 +1,4 @@
+func main() {
+            var arr []int = getArray()
+            var slice []int = arr[1:3]
+        }

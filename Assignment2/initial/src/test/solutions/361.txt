@@ -1,0 +1,1 @@
+Program([VarDecl(arr,ArrayType(FloatType,[IntLiteral(5)]))])

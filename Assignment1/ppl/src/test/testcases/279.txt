@@ -1,0 +1,9 @@
+func main() {
+            var arr []int = getArray()
+            var sum int = 0
+            for i := 0; i < len(arr); i += 1 {
+            sum += arr[i]
+            }
+            var average_float = Float(sum) / Float(len(arr))
+        }
+        

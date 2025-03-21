@@ -1,0 +1,1 @@
+func,(,r,*,Rectangle,),scale,(,factor,int,),{,r,.,width,*=,factor,;,r,.,height,*=,factor,;,},;,<EOF>
