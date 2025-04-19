@@ -1,0 +1,8 @@
+
+                type Student struct {
+                    name string
+                    age [3] int
+                }
+                const c =  6/2 + 3 - 1*2;
+                var a [4] Student = [c] Student { Student { name:"abc" }, Student { name:"abc" } }
+                

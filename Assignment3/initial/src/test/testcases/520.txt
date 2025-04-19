@@ -1,0 +1,12 @@
+
+                func main () {
+                    var a boolean
+                    var b = 5;
+                    var c = 5;
+                    var d [3] int = [3] int { 1,2,3}
+                    for _, value := range d {
+                        var a = _;
+                    }
+
+                }
+                

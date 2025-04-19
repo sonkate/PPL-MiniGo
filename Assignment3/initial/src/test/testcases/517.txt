@@ -1,0 +1,14 @@
+
+                func main () {
+                    var a boolean
+                    var b = 5;
+                    var c = 5;
+                    var d [3] string = [3] string {"a", "b", "c"}
+                    for i, value := range d {
+                        if (i<3) {
+                        return
+                        }
+                    }
+
+                }
+                

@@ -1,0 +1,1 @@
+Type Mismatch: VarDecl(a,ArrayType(IntType,[IntLiteral(3)]),ArrayLiteral([IntLiteral(3)],FloatType,[FloatLiteral(1.1),FloatLiteral(2.2),FloatLiteral(3.3)]))

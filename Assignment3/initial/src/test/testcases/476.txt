@@ -1,0 +1,6 @@
+
+        type Matrix struct {
+            data [2][2]int
+        }
+        var m Matrix = Matrix {data: [2][2]float {{1.1, 2.2}, {3.3, 4.4}}};
+        

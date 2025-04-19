@@ -1,0 +1,1 @@
+Type Mismatch: ConstDecl(a,IntType,FloatLiteral(1.2))

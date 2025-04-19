@@ -1,0 +1,1 @@
+Type Mismatch: VarDecl(b,IntType,ArrayCell(FieldAccess(ArrayCell(FieldAccess(Id(a),owner),[IntLiteral(0)]),age),[IntLiteral(0)]))

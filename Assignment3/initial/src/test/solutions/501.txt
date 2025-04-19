@@ -1,0 +1,1 @@
+Type Mismatch: VarDecl(a,ArrayType(IntType,[IntLiteral(5)]),ArrayLiteral([Id(c)],IntType,[IntLiteral(1),Id(c),IntLiteral(3)]))

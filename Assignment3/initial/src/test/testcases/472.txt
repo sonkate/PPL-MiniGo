@@ -1,0 +1,5 @@
+
+        func getArray() [3]int {
+            return [3]float {1.1, 2.2, 3.3};
+        }
+        

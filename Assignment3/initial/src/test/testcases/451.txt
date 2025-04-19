@@ -1,0 +1,15 @@
+
+        type Address struct {
+            city string
+            zip int
+        }
+        type Owner struct {
+            name string
+            address Address
+        }
+        type Pet struct {
+            name string
+            owner Owner
+        }
+        var pet Pet = Pet {name: "Buddy", owner: Owner {name: "Alice", address: Address {city: "New York", state: "NY"}}};
+        

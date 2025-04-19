@@ -1,0 +1,19 @@
+
+                func main () {
+                    var a boolean
+                    var b = 5;
+                    var c = 5;
+                    if (a){
+                        var c float
+                        for (1+2*3.2<122.9+b||a) {
+                            var c boolean
+                            for (c) {
+                                var c string
+                                continue
+                            }
+                            return
+                        }   
+                    }
+
+                }
+                

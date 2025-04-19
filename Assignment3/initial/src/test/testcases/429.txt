@@ -1,0 +1,6 @@
+
+        type I interface { foo() int; }
+        type A struct {}
+        func (a A) foo() {}
+        func a() I { return A {}; }
+        

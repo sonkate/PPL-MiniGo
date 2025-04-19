@@ -1,0 +1,1 @@
+Type Mismatch: StructLiteral(Employee,[(name,StringLiteral("John")),(salary,StringLiteral("High"))])

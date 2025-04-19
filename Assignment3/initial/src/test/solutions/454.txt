@@ -1,0 +1,1 @@
+Type Mismatch: VarDecl(v,Id(Vehicle),StructLiteral(Car,[(speed,IntLiteral(10))]))

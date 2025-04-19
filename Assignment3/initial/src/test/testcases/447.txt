@@ -1,0 +1,9 @@
+
+        type Employee struct {
+            name string
+            salary float
+            id int
+            active boolean
+        }
+        var e Employee = Employee {name: "John", salary: "High"};
+        

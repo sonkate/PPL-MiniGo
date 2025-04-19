@@ -1,0 +1,15 @@
+
+                func main () {
+                    var a boolean
+                    var b = 5;
+                    var c = 5;
+                    var d [3] string = [3] string {"a", "b", "c"}
+                    var i = 12;
+                    for i, value := range d {
+                        for i:= 0; c < 3; c+= 3 {
+                            return
+                        }
+                    }
+
+                }
+                

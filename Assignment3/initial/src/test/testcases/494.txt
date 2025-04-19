@@ -1,0 +1,9 @@
+
+        type Book struct {
+            title string
+            pages int
+        }
+        func main() {
+            var books [2]Book = [2]Book {Book {title: "ok", pages: "ok"}}
+        }
+        

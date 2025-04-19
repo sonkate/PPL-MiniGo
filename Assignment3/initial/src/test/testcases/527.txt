@@ -1,0 +1,15 @@
+
+                type Student struct {
+                    name string
+                    age [3] float
+                }
+                func main () {
+                    var a = Car { name:"OK"}
+                    var b [3][4] int;
+                    var c [4]  int = b[0]
+                }
+                type Car struct {
+                    name string
+                    owner [5] Student
+                }
+                

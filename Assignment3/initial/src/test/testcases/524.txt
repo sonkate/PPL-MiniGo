@@ -1,0 +1,14 @@
+
+                type Student struct {
+                    name string
+                    age [3] int
+                }
+                type Car struct {
+                    name string
+                    owner [5] Student
+                }
+                func main () {
+                    var a = Car { name:"OK"}
+                    var b int = a.owner[0].age[0]
+                }
+                

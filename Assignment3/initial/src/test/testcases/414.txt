@@ -1,0 +1,1 @@
+var a [3]int; var b = a[1.2];

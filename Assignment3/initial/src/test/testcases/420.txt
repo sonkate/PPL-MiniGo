@@ -1,0 +1,5 @@
+
+        type A struct { x int; }
+        var a A;
+        var b = a.y;
+        

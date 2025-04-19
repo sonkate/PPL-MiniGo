@@ -1,0 +1,7 @@
+
+        type A interface {
+            Add(x, y int) int;
+            Subtract(a, b float, c int) float;
+            Add()
+        }
+        

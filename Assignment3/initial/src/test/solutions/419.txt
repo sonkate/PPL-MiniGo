@@ -1,0 +1,1 @@
+Type Mismatch: StructLiteral(A,[(x,FloatLiteral(1.2))])

@@ -115,7 +115,11 @@ elif_one: ELSE IF LRB expr RRB list_newline? body;
 for_stmt: (basic_for | init_for | range_for) list_newline? body;
 basic_for: FOR expr;
 init_for: FOR (assign_stmt| var_decl) SM expr SM assign_stmt;
-range_for: FOR (ID|UNDERSCORE) CM ID EQ_ASSIGN_OP RANGE expr;
+range_for: FOR range_vars CM ID EQ_ASSIGN_OP RANGE expr;
+range_vars: single_var | dual_var;
+
+single_var: ID | UNDERSCORE;
+dual_var: (ID | UNDERSCORE) CM (ID | UNDERSCORE);
 
 break_stmt: BREAK sm_nl;
 continue_stmt: CONTINUE sm_nl;

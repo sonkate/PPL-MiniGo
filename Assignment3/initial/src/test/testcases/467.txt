@@ -1,0 +1,7 @@
+
+        type Student struct {
+            name string
+            grades [3]int
+        }
+        var s Student = Student {name: "Alice", grades: [3]int {90, 85, 88}};
+        

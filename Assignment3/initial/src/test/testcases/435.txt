@@ -1,0 +1,4 @@
+
+        type A struct { x int; }
+        func a() A { return A { x: true }; }
+        

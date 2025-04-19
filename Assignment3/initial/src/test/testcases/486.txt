@@ -1,0 +1,18 @@
+
+        type Address struct {
+            city string
+            zip int
+        }
+        type Company struct {
+            name string
+            address Address
+        }
+        type Employee struct {
+            name string
+            company Company
+        }
+        func main() {
+            var e Employee = Employee {name: "Alice", company: Company {name: "TechCorp", address: Address {city: "San Francisco", zip: 94105}}};
+            var zip string = e.company.address.zip;
+        }
+        

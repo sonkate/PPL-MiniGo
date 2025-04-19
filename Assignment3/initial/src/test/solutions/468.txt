@@ -1,0 +1,1 @@
+Type Mismatch: StructLiteral(Student,[(name,StringLiteral("Alice")),(grades,ArrayLiteral([IntLiteral(3)],FloatType,[FloatLiteral(90.5),FloatLiteral(85.2),FloatLiteral(88.1)]))])

@@ -1,0 +1,1 @@
+Type Mismatch: VarDecl(zip,StringType,FieldAccess(FieldAccess(FuncCall(getPerson,[]),address),zip))

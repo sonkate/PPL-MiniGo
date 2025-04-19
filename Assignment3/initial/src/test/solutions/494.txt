@@ -1,0 +1,1 @@
+Type Mismatch: StructLiteral(Book,[(title,StringLiteral("ok")),(pages,StringLiteral("ok"))])

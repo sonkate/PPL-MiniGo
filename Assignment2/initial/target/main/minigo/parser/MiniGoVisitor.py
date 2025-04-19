@@ -174,6 +174,21 @@ class MiniGoVisitor(ParseTreeVisitor):
         return self.visitChildren(ctx)
 
 
+    # Visit a parse tree produced by MiniGoParser#range_vars.
+    def visitRange_vars(self, ctx:MiniGoParser.Range_varsContext):
+        return self.visitChildren(ctx)
+
+
+    # Visit a parse tree produced by MiniGoParser#single_var.
+    def visitSingle_var(self, ctx:MiniGoParser.Single_varContext):
+        return self.visitChildren(ctx)
+
+
+    # Visit a parse tree produced by MiniGoParser#dual_var.
+    def visitDual_var(self, ctx:MiniGoParser.Dual_varContext):
+        return self.visitChildren(ctx)
+
+
     # Visit a parse tree produced by MiniGoParser#break_stmt.
     def visitBreak_stmt(self, ctx:MiniGoParser.Break_stmtContext):
         return self.visitChildren(ctx)

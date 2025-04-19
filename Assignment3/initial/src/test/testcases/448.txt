@@ -1,0 +1,11 @@
+
+        type Owner struct {
+            name string
+            age int
+        }
+        type Pet struct {
+            name string
+            owner Owner
+        }
+        var pet Pet = Pet {name: "Buddy", owner: Owner {name: "Alice", age: 30}};
+        

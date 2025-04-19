@@ -1,0 +1,8 @@
+
+        type Person struct {
+            name string
+            height float
+            weight int
+            name int
+        }
+        

@@ -1,0 +1,14 @@
+
+        type Address struct {
+            city string
+            zip int
+        }
+        type Person struct {
+            name string
+            address Address
+        }
+        func main() {
+            var p Person = Person {name: "John", address: Address {city: "New York", zip: 10001}};
+            var state = p.address.state;
+        }
+        

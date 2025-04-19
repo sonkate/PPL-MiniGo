@@ -1,0 +1,1 @@
+Type Mismatch: VarDecl(a,ArrayType(Id(Person),[IntLiteral(4)]),ArrayLiteral([Id(c)],Id(Student),[StructLiteral(Student,[(name,StringLiteral("abc"))]),StructLiteral(Student,[(name,StringLiteral("abc"))])]))

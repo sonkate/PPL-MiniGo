@@ -1,0 +1,4 @@
+
+        var size = 5;
+        var arr [size]int = [size]int {1, 2, 3, 4, 5};
+        

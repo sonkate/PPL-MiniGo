@@ -1,0 +1,9 @@
+
+        type Matrix struct {
+            data [2][2]int
+        }
+        func main() {
+            var m Matrix = Matrix {data: [2][2]int {{1, 2}, {3, 4}}};
+            var x = m.data[0][1];
+        }
+        
